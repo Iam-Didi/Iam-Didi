@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **css3, Javascript, React**
 
-- 📫 How to reach me **08105619928, divinerichard007@gmail.com**
+- 📫 How to reach me **divinerichard007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
