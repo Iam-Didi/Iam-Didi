@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/didiboycodes" target="blank"><img src="https://img.shields.io/twitter/follow/didiboycodes?logo=twitter&style=for-the-badge" alt="didiboycodes" /></a> </p>
 
-- 🌱 I’m currently learning **css3,Javascript, React**
+- 🌱 I’m currently learning **css3,Javascript, React, solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iam-Didi](https://github.com/Iam-Didi)
 
